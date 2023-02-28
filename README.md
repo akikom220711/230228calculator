@@ -1,4 +1,4 @@
-# Book diary
+# Calculator
 - 電卓アプリ<br><br>
 ![top page](img/top_page.jpg)
 
